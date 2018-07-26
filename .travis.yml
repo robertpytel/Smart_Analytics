@@ -5,5 +5,7 @@ cache: pip
 install:
  - pip install -r requirements.txt
  - pip install pandas
+ - pip install matplotlib.pyplot
+ - import math
 script:
  - python "Graphing Gyroscopes and Linear Acceleration".py
