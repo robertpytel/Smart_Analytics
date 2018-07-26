@@ -8,8 +8,6 @@ to-plot-two-specific-columns-from-a-csv-file-in-python
 """
 import numpy as np
 import pandas as pan
-import matplotlib
-matplotlib.use('Agg')
 import matplotlib.pyplot as plot
 import math
 """
