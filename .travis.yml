@@ -6,6 +6,5 @@ install:
  - pip install -r requirements.txt
  - pip install pandas
  - pip install matplotlib
- - pip install math
 script:
  - python "Graphing Gyroscopes and Linear Acceleration".py
